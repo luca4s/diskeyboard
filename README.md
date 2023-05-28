@@ -13,3 +13,4 @@ permite que mensagens do discord em um canal de texto controlem o seu teclado
 # como usar
 simplismente mande mensagens com as teclas que você quer pressionar no canal onde as teclas são executadas
 - se for um combo de teclas, escreva ela assim: `alt f4`, `ctrl shift right`
+![output](https://github.com/luca4s/diskeyboard/assets/96322105/a458d436-e337-4643-afd5-78f6f869ef8c)
